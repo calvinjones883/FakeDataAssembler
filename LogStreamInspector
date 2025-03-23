@@ -1,0 +1,23 @@
+
+---
+
+### **3. 21_LogStreamInspector**  
+**Description:**  
+Scans and analyzes log files for errors, warnings, and repeat messages.
+
+#### **README.md**
+```markdown
+# LogStreamInspector - Log File Analyzer
+
+LogStreamInspector reads through large log files and surfaces frequently occurring issues or patterns.
+
+## Features
+- Highlights repeating messages  
+- Works on syslogs and app logs  
+- Keyword-based filters  
+
+## Usage
+```bash
+git clone https://github.com/your-username/21_LogStreamInspector.git
+cd 21_LogStreamInspector
+python analyze.py mylogfile.log
