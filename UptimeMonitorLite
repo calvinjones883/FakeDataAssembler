@@ -1,0 +1,23 @@
+
+---
+
+### **2. 21_UptimeMonitorLite**  
+**Description:**  
+A lightweight tool for checking availability and response speed of URLs.
+
+#### **README.md**
+```markdown
+# UptimeMonitorLite - Lightweight API Checker
+
+UptimeMonitorLite gives you quick visibility into the health and latency of HTTP endpoints.
+
+## Features
+- Minimalist CLI interface  
+- Works with multiple URLs  
+- Logs status code and timing  
+
+## Usage
+```bash
+git clone https://github.com/your-username/21_UptimeMonitorLite.git
+cd 21_UptimeMonitorLite
+python monitor.py
