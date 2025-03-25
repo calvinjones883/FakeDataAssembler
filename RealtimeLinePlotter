@@ -1,0 +1,23 @@
+
+---
+
+### **4. 21_RealtimeLinePlotter**  
+**Description:**  
+Visualizes live numeric input as an updating line chart using Matplotlib.
+
+#### **README.md**
+```markdown
+# RealtimeLinePlotter - Live Data Chart Generator
+
+RealtimeLinePlotter plots incoming numerical data in real-time for demos, simulations, or monitoring.
+
+## Features
+- Real-time updates  
+- Scrollable window  
+- Clean display  
+
+## Usage
+```bash
+git clone https://github.com/your-username/21_RealtimeLinePlotter.git
+cd 21_RealtimeLinePlotter
+python visualize.py
